@@ -39,7 +39,7 @@ Este repositorio contiene el código fuente del simulador de escritorio en Pytho
 
 | Simulador de Python | App Móvil |
 | :---: | :---: |
-| ![Simulador de Python](docs/images/fig_gui_python.png) | ![App Móvil](docs/images/fig_app_movil.png) |
+| [Simulador de Python](docs/images/fig_gui_python.png) | [App Móvil](docs/images/fig_app_movil.png) |
 
 ## 🛠️ Tecnologías utilizadas
 
