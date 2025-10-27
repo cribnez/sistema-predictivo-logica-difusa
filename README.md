@@ -64,11 +64,8 @@ Este repositorio contiene el código fuente del simulador de escritorio en Pytho
 │
 └── 📂 src/
     ├── 🐍 python_simulator/
-    │   └── 📜 algoritmo.py
     ├── 📟 firmware_nodemcu/
-    │   └── (Aquí iría el código .ino del NodeMCU)
     └── 📱 mobile_app/
-        └── (Aquí iría el archivo .aia de App Inventor)
 ```
 
 ## 🚀 Instalación (Simulador de Python)
