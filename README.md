@@ -108,13 +108,6 @@ Esto abrirá una ventana de Tkinter donde puedes:
 
 Este proyecto es el resultado de la investigación presentada en el **Congreso Internacional de Mantenimiento y Confiabilidad (CIMCYT 2025)**.
 
-**Autores del Artículo**:
-* Juan Ríos Hernández
-* Christian Roberto Ibáñez Nangüelú
-* Roberto Ibáñez Córdova
-* Manuel Ramos Ponce
-* Fredy Martínez Cortez
-
 ## ⚖️ Licencia
 
 Este proyecto está distribuido bajo la Licencia MIT. Ver el archivo [LICENSE](LICENSE) para más detalles.
