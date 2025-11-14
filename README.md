@@ -35,7 +35,6 @@ Este repositorio contiene el código fuente del simulador de escritorio en Pytho
 
 ## 📸 Vistas Previas
 
-
 | Simulador de Python | App Móvil |
 | :---: | :---: |
 | [Simulador de Python](docs/images/fig_gui_python.png) | [App Móvil](docs/images/fig_app_movil.png) |
@@ -48,25 +47,7 @@ Este repositorio contiene el código fuente del simulador de escritorio en Pytho
 * **Sensores (Prototipo):** DS18B20 (Temperatura), Anemómetro
 * **App Móvil (Prototipo):** MIT App Inventor
 * **Modelo de Inferencia:** Lógica Difusa (Takagi-Sugeno)
-
-## 📂 Estructura del repositorio
-
-```
-.
-├── 📄 LICENSE
-├── 📄 README.md
-├── 📄 requirements.txt
-├── 📄 .gitignore
-│
-├── 📂 docs/
-│   └── 📑 CIMCYT2025_Ibanez_SistemaPredictivo.docx
-│
-└── 📂 src/
-    ├── 🐍 python_simulator/
-    ├── 📟 firmware_nodemcu/
-    └── 📱 mobile_app/
-```
-
+  
 ## 🚀 Instalación (Simulador de Python)
 
 1.  Clona este repositorio:
@@ -98,16 +79,3 @@ Una vez instaladas las dependencias, puedes ejecutar el simulador desde la raíz
 ```bash
 python src/python_simulator/algoritmo.py
 ```
-
-Esto abrirá una ventana de Tkinter donde puedes:
-* Ajustar los deslizadores de **Temperatura** y **Flujo de Aire**.
-* Ver el gráfico de las funciones de membresía.
-* Observar el **Nivel de Riesgo** calculado en tiempo real por el sistema difuso.
-
-## 🧑‍🔬 Autores y agradecimientos
-
-Este proyecto es el resultado de la investigación presentada en el **Congreso Internacional de Mantenimiento y Confiabilidad (CIMCYT 2025)**.
-
-## ⚖️ Licencia
-
-Este proyecto está distribuido bajo la Licencia MIT. Ver el archivo [LICENSE](LICENSE) para más detalles.
