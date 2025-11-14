@@ -39,10 +39,6 @@ Este proyecto desarrolla un sistema inteligente para la prevención del sobrecal
 
 ---
 
----
-
----
-
 📸 Galería del Proyecto
 Visualizaciones clave del sistema desarrollado
 
