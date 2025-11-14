@@ -41,33 +41,30 @@ Este proyecto desarrolla un sistema inteligente para la prevención del sobrecal
 
 ---
 
-<h2 align="center">📸 Galería del Proyecto</h2>
-<p align="center">Visualizaciones clave del sistema desarrollado</p>
+---
 
-<div align="center">
-  <figure>
-    <img src="assets/gui_simulador.png" alt="Interfaz gráfica del simulador en Python" width="500">
-    <figcaption><em>Interfaz gráfica del simulador (Tkinter) para probar el sistema de inferencia.</em></figcaption>
-  </figure>
-  <br>
+📸 Galería del Proyecto
+Visualizaciones clave del sistema desarrollado
 
-  <figure>
-    <img src="assets/funciones_membresia.png" alt="Funciones de membresía para temperatura y flujo de aire" width="500">
-    <figcaption><em>Funciones de membresía (Temperatura y Flujo de Aire) usadas en el modelo difuso.</em></figcaption>
-  </figure>
-  <br>
+<p align="center">
+  <img src="assets/gui_simulador.png" alt="Interfaz gráfica del simulador en Python" width="500"><br>
+  <em>Interfaz gráfica del simulador (Tkinter) para probar el sistema de inferencia.</em>
+</p>
 
-  <figure>
-    <img src="assets/superficie_riesgo_3d.png" alt="Gráfica 3D de la superficie de nivel de riesgo" width="500">
-    <figcaption><em>Superficie 3D del sistema Takagi-Sugeno que muestra el nivel de riesgo.</em></figcaption>
-  </figure>
-  <br>
+<p align="center">
+  <img src="assets/funciones_membresia.png" alt="Funciones de membresía para temperatura y flujo de aire" width="500"><br>
+  <em>Funciones de membresía (Temperatura y Flujo de Aire) usadas en el modelo difuso.</em>
+</p>
 
-  <figure>
-    <img src="assets/app_movil.png" alt="App Móvil" width="300">
-    <figcaption><em>Interfaz de la App Móvil (App Inventor) para recibir alertas.</em></figcaption>
-  </figure>
-</div>
+<p align="center">
+  <img src="assets/superficie_riesgo_3d.png" alt="Gráfica 3D de la superficie de nivel de riesgo" width="500"><br>
+  <em>Superficie 3D del sistema Takagi-Sugeno que muestra el nivel de riesgo.</em>
+</p>
+
+<p align="center">
+  <img src="assets/app_movil.png" alt="App Móvil" width="300"><br>
+  <em>Interfaz de la App Móvil (App Inventor) para recibir alertas.</em>
+</p>
 
 ---
 
