@@ -42,17 +42,35 @@ Este repositorio contiene el código fuente del simulador de escritorio en Pytho
 * **App Móvil (Prototipo):** MIT App Inventor
 * **Modelo de Inferencia:** Lógica Difusa (Takagi-Sugeno)
 
-📸 Galería del Proyecto
-<p align="center"> <img src="assets/gui_simulador.png" alt="Interfaz gráfica del simulador en Python" width="600">
+<h2 align="center">📸 Galería del Proyecto</h2>
+<p align="center">Visualizaciones clave del sistema desarrollado.</p>
+
+<figure align="center">
+  <img src="assets/gui_simulador.png" alt="Interfaz gráfica del simulador en Python" width="600">
+  <figcaption><em>Interfaz gráfica del simulador (Tkinter) para probar el sistema de inferencia.</em></figcaption>
+</figure>
+<br>
+
+<figure align="center">
+  <img src="assets/funciones_membresia.png" alt="Funciones de membresía para temperatura y flujo de aire" width="600">
+  <figcaption><em>Funciones de membresía (Temperatura y Flujo de Aire) usadas en el modelo difuso.</em></figcaption>
+</figure>
+<br>
+
+<figure align="center">
+  <img src="assets/superficie_riesgo_3d.png" alt="Gráfica 3D de la superficie de nivel de riesgo" width="600">
+  <figcaption><em>Superficie 3D del sistema Takagi-Sugeno que muestra el nivel de riesgo.</em></figcaption>
+</figure>
+<br>
+
+<figure align="center">
+  <img src="assets/app_movil.png" alt="App Móvil" width="300">
+  <figcaption><em>Interfaz de la App Móvil (App Inventor) para recibir alertas.</em></figcaption>
+</figure>
 
 
-<em>Interfaz gráfica del simulador (Tkinter) para probar el sistema de inferencia.</em> </p> <p align="center"> <img src="assets/funciones_membresia.png" alt="Funciones de membresía para temperatura y flujo de aire" width="600">
+🧑‍🔬 Autores y agradecimientos
+Este proyecto es el resultado de la investigación presentada en el Congreso Internacional de Mantenimiento y Confiabilidad (CIMCYT 2025).
 
-
-<em>Funciones de membresía (Temperatura y Flujo de Aire) usadas en el modelo difuso.</em> </p> <p align="center"> <img src="assets/superficie_riesgo_3d.png" alt="Gráfica 3D de la superficie de nivel de riesgo" width="600">
-
-
-<em>Superficie 3D del sistema Takagi-Sugeno que muestra el nivel de riesgo.</em> </p> <p align="center"> <img src="assets/app_movil.png" alt="App Móvil" width="300">
-
-
-<em>Interfaz de la App Móvil (App Inventor) para recibir alertas.</em> </p>
+⚖️ Licencia
+Este proyecto está distribuido bajo la Licencia MIT. Ver el archivo LICENSE para más detalles.
