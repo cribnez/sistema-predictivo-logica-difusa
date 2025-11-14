@@ -1,5 +1,5 @@
-<h1 align="center">🚗🔥 Sistema Predictivo Basado en Lógica Difusa para la Prevención del Sobrecalentamiento</h1>
-<p align="center"><strong>Presentado en el Congreso Internacional de Mantenimiento y Confiabilidad (CIMCYT 2025)</strong></p>
+🚗🔥 Sistema Predictivo Basado en Lógica Difusa para la Prevención del Sobrecalentamiento
+Presentado en el Congreso Internacional de Mantenimiento y Confiabilidad (CIMCYT 2025)
 
 ---
 
