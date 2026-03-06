@@ -66,8 +66,7 @@ Visualizaciones clave del sistema desarrollado
 
 ## 🧑‍🔬 Autores y agradecimientos
 
-Este proyecto es el resultado de la investigación presentada en el Congreso Internacional de Mantenimiento y Confiabilidad (CIMCYT 2025).  
-Agradecimientos a todos los colaboradores que hicieron posible esta propuesta.
+Este proyecto es el resultado de la investigación presentada en el Congreso Internacional Multidisciplinario de Ciencia y Tecnología 2025 (2da. Edición) (CIMCYT 2025). Agradecimientos a todos los colaboradores que hicieron posible esta propuesta.
 
 ---
 
