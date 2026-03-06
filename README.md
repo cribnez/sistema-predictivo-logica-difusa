@@ -77,7 +77,7 @@ Este proyecto está distribuido bajo la Licencia MIT. Consulta el archivo `LICEN
 
 ## 📄 Publicación Académica
 
-Este proyecto fue presentado en el **Congreso Internacional de Mantenimiento y Confiabilidad (CIMCYT 2025)** y documentado en la revista *Tecnología Digital*.  
+Este proyecto ha sido documentado en la revista *Tecnología Digital*.  
 El documento completo también se encuentra disponible en la carpeta `docs` de este repositorio:
 
 <p align="center">
