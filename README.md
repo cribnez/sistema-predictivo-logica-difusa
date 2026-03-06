@@ -74,3 +74,21 @@ Agradecimientos a todos los colaboradores que hicieron posible esta propuesta.
 ## ⚖️ Licencia
 
 Este proyecto está distribuido bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
+
+## 📄 Publicación Académica
+
+Este proyecto fue presentado en el **Congreso Internacional de Mantenimiento y Confiabilidad (CIMCYT 2025)** y documentado en la revista *Tecnología Digital*.  
+El documento completo también se encuentra disponible en la carpeta `docs` de este repositorio:
+
+<p align="center">
+  <a href="docs/articulo_sobrecalentamiento_fuzzy.pdf" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" alt="Artículo en PDF" width="120">
+    <br><em>Sistema predictivo basado en lógica difusa para la prevención del sobrecalentamiento en motores de combustión interna</em>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.revistatecnologiadigital.com/pdf/15_03_013_sistema_predictivo_logica_difusa_prevencion_sobrecalentamiento_motores_combustion_interna.pdf" target="_blank">
+    📎 <em>Acceso al artículo original en la revista Tecnología Digital</em>
+  </a>
+</p>
